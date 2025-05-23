@@ -1,6 +1,6 @@
 # Excallibur
 
-**Excallibur** is a minimalist statically-typed programming language.
+**Excallibur** is a statically-typed programming language.
 
 
 ## It supports
